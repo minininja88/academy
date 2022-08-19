@@ -17,9 +17,42 @@
 body {
     font-family: "Montserrat", "Arial", sans-serif;
     background-color: #EFE6E4;
+    color: #533738;
 }
 
 .intro {
     background-image: url("img/intro.jpg");
     background-repeat: no-repeat;
+}
+
+.zagolovok {
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 62px; 
+}
+
+.opisanie {
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.header-about {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.about {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.header-works {
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
 }
